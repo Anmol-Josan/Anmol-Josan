@@ -5,4 +5,3 @@
 - 📫 How to reach me: anmoljosan@outlook.com, feel free to ask me for a resume!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can fly a plane
-- 
