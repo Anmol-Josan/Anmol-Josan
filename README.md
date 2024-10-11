@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol Singh Josan</h1>
-<h3 align="center">An Fullstack developer and Mechanical Engineer</h3>
-
-- 🔭 I’m currently working on **an Express.js website to display information about EPS classrooms**
-
-- 🌱 I’m currently learning **SQL databases**
-
-- 👯 I’m looking to collaborate on **web development internships**
-
-- 📫 How to reach me **anmoljosan@outlook.com Feel free to ask me for a resume!**
+<h3 align="center">An High School Student and Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
