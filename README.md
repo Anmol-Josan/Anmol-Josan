@@ -11,7 +11,7 @@
 
 ---
 
-## 🔬 Research & Computational Biology
+## Research & Computational Biology
 
 * **Spectral Graph Theory in Single-Cell Genomics**: Developing an interactive framework and dashboard leveraging Laplacian embeddings, eigengap diagnostics, and heat diffusion to map single-cell RNA-seq and TCR-seq datasets, aiming to uncover biological consistency and clinical enrichment trends.
 * **Oncology Machine Learning**: Built multimodal machine learning models using Python and PyTorch to analyze large-scale genomic datasets (via frameworks like Scanpy), focusing on predicting chemo-immunotherapy response patterns in breast cancer patients. *Awarded 1st Place at the State Science Fair.*
